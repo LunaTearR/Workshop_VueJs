@@ -2,6 +2,7 @@
 node_modules
 /dist
 
+present_video
 
 # local env files
 .env.local
